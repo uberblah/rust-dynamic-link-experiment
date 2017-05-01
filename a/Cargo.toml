@@ -1,0 +1,9 @@
+[package]
+name = "a"
+version = "0.1.0"
+authors = ["milesrl <soccermiles1@gmail.com>"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
